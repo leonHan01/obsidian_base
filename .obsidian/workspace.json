@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4904aad9700e96eb",
+        "id": "82139e06cd1ce6c0",
         "type": "tabs",
         "children": [
           {
-            "id": "c14daa19d77bc916",
+            "id": "09f9dd252ef3ebad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +128,22 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "35af25ac7e317198",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf9112fe6626fb19",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
         ]
       }
@@ -137,6 +152,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f9616ee2c8afcfd",
+  "active": "09f9dd252ef3ebad",
   "lastOpenFiles": []
 }
