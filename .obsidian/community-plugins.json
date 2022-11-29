@@ -29,5 +29,11 @@
   "obsidian-kanban",
   "find-unlinked-files",
   "obsidian-reminder-plugin",
-  "obsidian-plugin-todo"
+  "obsidian-plugin-todo",
+  "obsidian-dialogue-plugin",
+  "obsidian-code-block-enhancer",
+  "obsidian-outliner",
+  "obsidian-tracker",
+  "obsidian-collapse-all-plugin",
+  "obsidian-copy-block-link"
 ]

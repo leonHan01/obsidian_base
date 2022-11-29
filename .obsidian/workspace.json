@@ -11,8 +11,12 @@
             "id": "09f9dd252ef3ebad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "table.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "table.md"
+              }
             }
           },
           {

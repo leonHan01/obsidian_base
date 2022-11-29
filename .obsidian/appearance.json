@@ -1,3 +1,6 @@
 {
-  "accentColor": "#6ba5ef"
+  "accentColor": "#6ba5ef",
+  "enabledCssSnippets": [
+    "tableStyles"
+  ]
 }
